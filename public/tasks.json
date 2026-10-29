@@ -1,0 +1,5 @@
+[
+  { "id": 1, "title": "Set up the React project", "description": "Scaffold with Vite and install react-router-dom.", "priority": "high", "done": true },
+  { "id": 2, "title": "Build the task list screen", "description": "Fetch tasks and render them as links to detail pages.", "priority": "medium", "done": false },
+  { "id": 3, "title": "Add form validation", "description": "Title is required (3+ chars), priority must be chosen.", "priority": "high", "done": false }
+]
